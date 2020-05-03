@@ -1,9 +1,10 @@
 body{
+    background-color: purple;
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     line-height: 1.5;
     color: #212529;
-    background-color: rgba(206, 110, 47, 0.315);
+   
 
 }
 .container1{
@@ -21,10 +22,10 @@ body{
   
 }
 header {
-    background-color: chartreuse;
+   
 }
 header::after{
-    content: ;
+    
     display: table;
     clear: both;
 }
@@ -65,14 +66,14 @@ nav li{
       
   }
  #mainfooter{
-background-color: rgb(53, 196, 117);
+
 height: 272px;
 color: azure;
 
   }
 
   footer{
-    background-color:  rgb(6, 112, 98);
+   
     text-align: center;
     color: aliceblue;
   }
