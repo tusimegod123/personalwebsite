@@ -23,25 +23,25 @@
 .rw-sentence > span:first-child{
 	top: 40px;
 	left: 130px;
-	font-size: larger;
+	font-size: large;
 	color: rgba(228, 112, 10, 0.6);
 }
 .rw-sentence > span:nth-child(2){
 	top: 70px;
 	left: 100px;
-	font-size: larger;
+	font-size: large;
 	color: rgba(9, 221, 126, 0.7);
 }
 .rw-sentence > span:nth-child(3){
 	top: 100px;
 	left: 110px;
-	font-size: larger;
+	font-size: large;
 	color: rgba(202, 8, 8, 0.8);
 }
 .rw-sentence > span:last-child{
 	top: 140px;
 	left: 170px;
-	font-size: larger;
+	font-size: large;
 	color: rgba(26, 8, 185, 0.9);
 }
 .rw-words{
@@ -55,7 +55,7 @@
 }
 .rw-words span{
 	position: absolute;
-	font-size: larger;
+	font-size: large;
 	color: transparent;
 	opacity: 0;
 	-webkit-animation: rotateWord 18s linear infinite 0s;
