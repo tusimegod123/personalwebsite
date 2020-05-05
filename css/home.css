@@ -1,7 +1,7 @@
 #body{
     background-color: purple;
     margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+font-family: Georgia, 'Times New Roman', Times, serif;
     line-height: 1.5;
     color: #ffffff
 }
@@ -16,9 +16,6 @@
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-}
-header {
-   
 }
 header::after{
     
@@ -82,8 +79,8 @@ text-align: center;
   }
 
   #skill_images{
-    width: 210px;
-    height: 120px;
+    width: 255px;
+    height: 150px;
   }
   #mainfooterimages{
     margin-top: 20px;
